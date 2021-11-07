@@ -1,0 +1,35 @@
+body {
+    font-family: 'Rampart One', cursive;
+    background-color: rgba(164, 233, 245, 0.993);
+}
+
+.header_div {
+    background-color: rgb(144, 228, 243);
+    color: rgb(0, 0, 0);
+}
+
+.header_div p {
+    font-family: 'Rampart One', cursive;
+    color: rgb(240, 245, 255);
+    letter-spacing: normal;
+    font-size: 15px;
+}
+
+.main_div button {
+    font-family: 'Rampart One', cursive;
+    margin-top: 40px;
+    width: 140px;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
